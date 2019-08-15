@@ -13,3 +13,17 @@
   color: green;
   text-align: center;
 }
+.About {
+  color: brown;
+  text-align: justify;
+}
+img {
+  float:
+}
+.column {
+  width: 370px;
+  float: left;
+}
+body {
+  background-image: url("Dublin-Roasters-Beans.jpg");
+}
