@@ -1,0 +1,15 @@
+.post1 {
+  color: red;
+}
+.post2 {
+  color: blue;
+  text-align: center;
+}
+.post3 {
+  color: gray;
+}
+
+.all {
+  color: green;
+  text-align: center;
+}
