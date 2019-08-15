@@ -1,21 +1,40 @@
 .post1 {
   color: red;
+  margin: 12px;
+  border: 2px solid red;
+  padding: 4px;
+  background-color: orange;
 }
 .post2 {
   color: blue;
+  margin: 12px;
+  border: 2px solid blue;
+  padding: 4px;
+  background-color: orange;
   text-align: center;
 }
 .post3 {
+  border: 2px solid gray;
+  margin: 12px;
+  padding: 4px;
+  background-color: orange;
   color: gray;
 }
 
 .all {
   color: green;
+  margin: 12px;
+  border: 2px solid green;
+  padding: 4px;
   text-align: center;
 }
 .About {
   color: brown;
-  text-align: justify;
+  margin: 12px;
+  border: 2px solid purple;
+  padding: 4px;
+  background-color: orange;
+  text-align: center;
 }
 img {
   float:
@@ -23,6 +42,11 @@ img {
 .column {
   width: 370px;
   float: left;
+  color: black;
+  margin: 12px;
+  border: 2px solid black;
+  padding: 4px;
+  background-color: orange;
 }
 body {
   background-image: url("Dublin-Roasters-Beans.jpg");
